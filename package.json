@@ -1,0 +1,26 @@
+{
+  "name": "testing-repo-main",
+  "version": "1.0.0",
+  "description": "good job!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sou-goog/testing-repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sou-goog/testing-repo/issues"
+  },
+  "homepage": "https://github.com/sou-goog/testing-repo#readme",
+  "dependencies": {
+    "@types/react": "^19.2.14",
+    "react": "^19.2.5",
+    "typescript": "^6.0.3"
+  }
+}
